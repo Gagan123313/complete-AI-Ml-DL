@@ -1,0 +1,40 @@
+# Core Python Libraries
+numpy
+pandas
+scikit-learn
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Jupyter Notebook Support
+notebook
+jupyterlab
+
+# Deep Learning Frameworks
+tensorflow
+torch
+torchvision
+torchaudio
+
+# Natural Language Processing
+nltk
+spacy
+transformers
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Model Deployment / Utilities
+flask
+fastapi
+uvicorn
+joblib
+
+# Others (Optional but Useful)
+xgboost
+lightgbm
+catboost
