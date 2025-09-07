@@ -1,9 +1,0 @@
-# Anaconda
-# jupyter nonebook
-# numpy 
-# pandas 
-# matplotlib
-# Seaborn
-# Sklearn
-# Scipy
-# Tensorflow
